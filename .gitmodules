@@ -1,0 +1,3 @@
+[submodule "recommender-app"]
+	path = recommender-app
+	url = https://github.com/saahil-p/recommender-app.git
